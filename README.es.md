@@ -1,4 +1,4 @@
-<!--hide-->
+cd<!--hide-->
 # Vista previa de la línea de comandos
 <!--endhide-->
 
